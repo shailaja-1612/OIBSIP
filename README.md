@@ -1,4 +1,4 @@
-# OIBSIP Task 1 
+# OIBSIP 
 Oasis Infobyte Internship tasks
 
 Task 1 : Iris Classification
